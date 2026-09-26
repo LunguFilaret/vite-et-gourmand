@@ -33,7 +33,8 @@ Conformément aux exigences du cahier des charges de l'EFC Studi, une base de do
     "periode": "2026-09"
   }
 
- * **Collection `logs_activite` (Traçabilité des actions employés):**
+ * **Collection `logs_activite` (Traçabilité des actions employés) :**
+   ```json
   {
     "utilisateur_id":2,
     "role": "employee",
