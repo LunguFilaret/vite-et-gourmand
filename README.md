@@ -35,12 +35,12 @@ Conformément aux exigences du cahier des charges de l'EFC Studi, une base de do
 
  * **Collection `logs_activite` (Traçabilité des actions employés) :**
    ```json
-  {
+   {
     "utilisateur_id":2,
     "role": "employee",
     "action": "Modification de statut",
     "details": "Commande #12 passée en préparation"
   }
-  ```
+   ```
   
   
